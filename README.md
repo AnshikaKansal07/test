@@ -12,4 +12,4 @@
 
 
 
-<img width="634" height="391" alt="Screenshot 2026-07-01 at 11 06 42 AM" src="https://github.com/user-attachments/assets/2163f365-d02b-4bc6-b518-f0d6d506d879" />
+<img width="60" height="40" alt="Screenshot 2026-07-01 at 11 06 42 AM" src="https://github.com/user-attachments/assets/2163f365-d02b-4bc6-b518-f0d6d506d879" />
